@@ -3,54 +3,54 @@
       "id": 1,
       "name": "MSI Nvidia Gtx 1660 Super Ventus",
       "price": 1800.55,
-      "imgUrl": "http://jbryan98.github.io/carrito-compras/imgs/gtx-1660-super.jpg"
+      "imgUrl": "http://jbryan98.github.io/shopping-cart/imgs/gtx-1660-super.jpg"
     },
     {
       "id": 2,
       "name": "MSI Nvidia GeForce RTX 3060 VENTUS",
       "price": 2190.9,
-      "imgUrl": "http://jbryan98.github.io/carrito-compras/imgs/rtx-3060.jpg"
+      "imgUrl": "http://jbryan98.github.io/shopping-cart/imgs/rtx-3060.jpg"
     },
     {
       "id": 3,
       "name": "AORUS Nvidia RTX 3090 XTREME EDITION",
       "price": 3000.0,
-      "imgUrl": "http://jbryan98.github.io/carrito-compras/imgs/rtx-3090.jpg"
+      "imgUrl": "http://jbryan98.github.io/shopping-cart/imgs/rtx-3090.jpg"
     },
     {
       "id": 4,
       "name": "MOTHERBOARD GIGABYTE B450 AORUS",
       "price": 432.30,
-      "imgUrl": "http://jbryan98.github.io/carrito-compras/imgs/aorus-b450.jpg"
+      "imgUrl": "http://jbryan98.github.io/shopping-cart/imgs/aorus-b450.jpg"
     },
     {
       "id": 5,
       "name": "MOTHERBOARD ASUS ROG B-550",
       "price": 1050.60,
-      "imgUrl": "http://jbryan98.github.io/carrito-compras/imgs/rog-b550.jpg"
+      "imgUrl": "http://jbryan98.github.io/shopping-cart/imgs/rog-b550.jpg"
     },
     {
       "id": 6,
       "name": "MOTHERBOARD ASROCK B-560M Steel Legend",
       "price": 620.00,
-      "imgUrl": "http://jbryan98.github.io/carrito-compras/imgs/asrock-b560.jpg"
+      "imgUrl": "http://jbryan98.github.io/shopping-cart/imgs/asrock-b560.jpg"
     },
     {
       "id": 7,
       "name": "Monitor SAMSUNG Odyssey G5 CURVO",
       "price": 1500.00,
-      "imgUrl": "http://jbryan98.github.io/carrito-compras/imgs/samsung-g5.jpg"
+      "imgUrl": "http://jbryan98.github.io/shopping-cart/imgs/samsung-g5.jpg"
     },
     {
       "id": 8,
       "name": "Monitor MSI OPTIX G24VC CURVO",
       "price": 750.00,
-      "imgUrl": "http://jbryan98.github.io/carrito-compras/imgs/msi-g241vc.jpg"
+      "imgUrl": "http://jbryan98.github.io/shopping-cart/imgs/msi-g241vc.jpg"
     },
     {
       "id": 9,
       "name": "Monitor ASUS ROG Strix XG43UQ",
       "price": 3200.00,
-      "imgUrl": "http://jbryan98.github.io/carrito-compras/imgs/strix-xg43uq.jpg"
+      "imgUrl": "http://jbryan98.github.io/shopping-cart/imgs/strix-xg43uq.jpg"
     }
   ]
